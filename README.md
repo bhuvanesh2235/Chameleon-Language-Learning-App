@@ -65,50 +65,46 @@ Language learning can be challenging without access to quality resources, native
 #### 4. German Language Page
 ![German Language Page](https://github.com/bhuvanesh2235/Chameleon-Language-Learning-App/blob/main/Images/German_Lang_Page.png)
 
-#### 5. Handwriting Practice Page
-![Handwriting Practice Page](https://github.com/bhuvanesh2235/Chameleon-Language-Learning-App/blob/main/Images/Hand_Writting_Practice_Page.png)
-
-#### 6. Languages Page
+#### 5. Languages Page
 ![Languages Page](https://github.com/bhuvanesh2235/Chameleon-Language-Learning-App/blob/main/Images/Languages_Page.png)
 
-#### 7. Lesson Page
+#### 6. Lesson Page
 ![Lesson Page](https://github.com/bhuvanesh2235/Chameleon-Language-Learning-App/blob/main/Images/Lesson_Page.png)
 
-#### 8. Loading Page
+#### 7. Loading Page
 ![Loading Page](https://github.com/bhuvanesh2235/Chameleon-Language-Learning-App/blob/main/Images/Loading_Page.png)
 
-#### 9. Loading Page 1
+#### 8. Loading Page 1
 ![Loading Page 1](https://github.com/bhuvanesh2235/Chameleon-Language-Learning-App/blob/main/Images/Loading_Page_1.png)
 
-#### 10. Message Page
+#### 9. Message Page
 ![Message Page](https://github.com/bhuvanesh2235/Chameleon-Language-Learning-App/blob/main/Images/Message_Page.png)
 
-#### 11. Object Recognition Page
+#### 10. Object Recognition Page
 ![Object Recognition Page](https://github.com/bhuvanesh2235/Chameleon-Language-Learning-App/blob/main/Images/Object_Recognition_Page.png)
 
-#### 12. Quiz Page
+#### 11. Quiz Page
 ![Quiz Page](https://github.com/bhuvanesh2235/Chameleon-Language-Learning-App/blob/main/Images/Quizz_Page.png)
 
-#### 13. Quiz Page 1
+#### 12. Quiz Page 1
 ![Quiz Page 1](https://github.com/bhuvanesh2235/Chameleon-Language-Learning-App/blob/main/Images/Quizz_Page_1.png)
 
-#### 14. Quiz Score Page
+#### 13. Quiz Score Page
 ![Quiz Score Page](https://github.com/bhuvanesh2235/Chameleon-Language-Learning-App/blob/main/Images/Quizz_Score_Page.png)
 
-#### 15. Settings Page
+#### 14. Settings Page
 ![Settings Page](https://github.com/bhuvanesh2235/Chameleon-Language-Learning-App/blob/main/Images/Settings_Page.png)
 
-#### 16. Staff Page
+#### 15. Staff Page
 ![Staff Page](https://github.com/bhuvanesh2235/Chameleon-Language-Learning-App/blob/main/Images/Staff_Page.png)
 
-#### 17. User Profile Page
+#### 16. User Profile Page
 ![User Profile Page](https://github.com/bhuvanesh2235/Chameleon-Language-Learning-App/blob/main/Images/User_Profile_Page.png)
 
-#### 18. Video Call Page
+#### 17. Video Call Page
 ![Video Call Page](https://github.com/bhuvanesh2235/Chameleon-Language-Learning-App/blob/main/Images/Video_Call_Page.png)
 
-#### 19. Video Call Page 1
-![Video Call Page 1](https://github.com/bhuvanesh2235/Chameleon-Language-Learning-App/blob/main/Images/Video_Call_Page_1.png)
+
 
 
 
