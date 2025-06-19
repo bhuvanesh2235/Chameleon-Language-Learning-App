@@ -4,6 +4,10 @@ Chameleon is a comprehensive language learning app designed to make language acq
 
 ---
 
+## Dowload App
+
+Download the apk file of our app from this link : [Chameleon.apk](https://drive.google.com/drive/folders/1_nfFNojrA-McohHkbQsUm_Vqydnwywbz?usp=sharing) 
+
 ## Key Features
 
 ### 1. Interactive Language Learning
@@ -111,7 +115,7 @@ Language learning can be challenging without access to quality resources, native
 ---
 
 ## How to Use
-1. **Download the app** and create a profile.  
+1. **Download the app** and create a profile. 
 2. **Choose your target language** and respective teacher.  
 3. Access **lessons, quizzes, and practice areas** to improve your skills.  
 4. Use **real-time chat and video call features** to interact with others.  
